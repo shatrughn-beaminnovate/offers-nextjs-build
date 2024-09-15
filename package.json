@@ -1,0 +1,36 @@
+{
+    "name": "offer-unicorn",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@react-pdf-viewer/core": "^3.12.0",
+        "@react-pdf-viewer/default-layout": "^3.12.0",
+        "@szhsin/react-accordion": "^1.2.5",
+        "bootstrap-icons": "^1.11.3",
+        "dotenv": "^16.4.5",
+        "express": "^4.21.0",
+        "next": "^14.2.5",
+        "pdfjs-dist": "^3.11.174",
+        "react": "^18",
+        "react-dom": "^18",
+        "react-form-stepper": "^2.0.3",
+        "react-images-uploading": "^3.1.7",
+        "react-loading-skeleton": "^3.4.0",
+        "react-otp-input": "^3.1.1",
+        "react-paginate": "^8.2.0",
+        "react-select": "^5.8.0",
+        "react-spinners": "^0.14.1",
+        "react-toastify": "^10.0.5",
+        "sharp": "^0.33.5"
+    },
+    "devDependencies": {
+        "postcss": "^8",
+        "tailwindcss": "^3.4.1"
+    }
+}
