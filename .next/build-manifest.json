@@ -5,8 +5,8 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/4c7o64QuHs7DojGfuuthU/_buildManifest.js",
-    "static/4c7o64QuHs7DojGfuuthU/_ssgManifest.js"
+    "static/jsM7VwNjze0ZK2Sq2Nv52/_buildManifest.js",
+    "static/jsM7VwNjze0ZK2Sq2Nv52/_ssgManifest.js"
   ],
   "rootMainFiles": [],
   "pages": {
@@ -14,14 +14,14 @@
       "static/chunks/webpack-c4acd79e87956a0e.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
       "static/chunks/main-3d18bc1595187316.js",
-      "static/chunks/pages/index-c49ab811941021b1.js"
+      "static/chunks/pages/index-ad290da4c9bbc6d5.js"
     ],
     "/_app": [
       "static/chunks/webpack-c4acd79e87956a0e.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
       "static/chunks/main-3d18bc1595187316.js",
       "static/css/e5d43fd5064f4d1a.css",
-      "static/chunks/pages/_app-7699f5177d8a12aa.js"
+      "static/chunks/pages/_app-390fa038e4f90f47.js"
     ],
     "/_error": [
       "static/chunks/webpack-c4acd79e87956a0e.js",
@@ -41,14 +41,14 @@
       "static/chunks/main-3d18bc1595187316.js",
       "static/chunks/723-577d56a8ffd89877.js",
       "static/chunks/68-71cf81c6bf23da21.js",
-      "static/chunks/282-22180f6c9072a4e8.js",
-      "static/chunks/pages/admin/add-product-4640109467cb3eb1.js"
+      "static/chunks/282-0007b966e27220cf.js",
+      "static/chunks/pages/admin/add-product-25831e825d7f0c3a.js"
     ],
     "/admin/dashboard": [
       "static/chunks/webpack-c4acd79e87956a0e.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
       "static/chunks/main-3d18bc1595187316.js",
-      "static/chunks/pages/admin/dashboard-9e090ab3a5cc4a22.js"
+      "static/chunks/pages/admin/dashboard-98ac4e8580d40c64.js"
     ],
     "/admin/update-product/[currentFormID]": [
       "static/chunks/webpack-c4acd79e87956a0e.js",
@@ -56,8 +56,8 @@
       "static/chunks/main-3d18bc1595187316.js",
       "static/chunks/723-577d56a8ffd89877.js",
       "static/chunks/68-71cf81c6bf23da21.js",
-      "static/chunks/282-22180f6c9072a4e8.js",
-      "static/chunks/pages/admin/update-product/[currentFormID]-3ce578a460713adf.js"
+      "static/chunks/282-0007b966e27220cf.js",
+      "static/chunks/pages/admin/update-product/[currentFormID]-6a2034a8442ce3d5.js"
     ],
     "/login": [
       "static/chunks/webpack-c4acd79e87956a0e.js",
@@ -82,14 +82,14 @@
       "static/chunks/framework-ecc4130bc7a58a64.js",
       "static/chunks/main-3d18bc1595187316.js",
       "static/chunks/723-577d56a8ffd89877.js",
-      "static/chunks/282-22180f6c9072a4e8.js",
-      "static/chunks/pages/upgrade/[phoneID]-7e12dec8264e8dc3.js"
+      "static/chunks/282-0007b966e27220cf.js",
+      "static/chunks/pages/upgrade/[phoneID]-3af0be1b66ae1c58.js"
     ],
     "/upgrade/[phoneID]/payment": [
       "static/chunks/webpack-c4acd79e87956a0e.js",
       "static/chunks/framework-ecc4130bc7a58a64.js",
       "static/chunks/main-3d18bc1595187316.js",
-      "static/chunks/pages/upgrade/[phoneID]/payment-122cd52b229e75b2.js"
+      "static/chunks/pages/upgrade/[phoneID]/payment-faf1aacc358dd4b9.js"
     ],
     "/upgrade/[phoneID]/thanks": [
       "static/chunks/webpack-c4acd79e87956a0e.js",
