@@ -1,36 +1,50 @@
 {
-    "name": "offer-unicorn",
-    "version": "0.1.0",
-    "private": true,
-    "scripts": {
-        "dev": "next dev",
-        "build": "next build",
-        "start": "next start",
-        "lint": "next lint"
-    },
-    "dependencies": {
-        "@react-pdf-viewer/core": "^3.12.0",
-        "@react-pdf-viewer/default-layout": "^3.12.0",
-        "@szhsin/react-accordion": "^1.2.5",
-        "bootstrap-icons": "^1.11.3",
-        "dotenv": "^16.4.5",
-        "express": "^4.21.0",
-        "next": "^14.2.5",
-        "pdfjs-dist": "^3.11.174",
-        "react": "^18",
-        "react-dom": "^18",
-        "react-form-stepper": "^2.0.3",
-        "react-images-uploading": "^3.1.7",
-        "react-loading-skeleton": "^3.4.0",
-        "react-otp-input": "^3.1.1",
-        "react-paginate": "^8.2.0",
-        "react-select": "^5.8.0",
-        "react-spinners": "^0.14.1",
-        "react-toastify": "^10.0.5",
-        "sharp": "^0.33.5"
-    },
-    "devDependencies": {
-        "postcss": "^8",
-        "tailwindcss": "^3.4.1"
-    }
+  "name": "offer-unicorm",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3600",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/autocomplete": "^2.1.7",
+    "@nextui-org/button": "^2.0.38",
+    "@nextui-org/checkbox": "^2.1.5",
+    "@nextui-org/chip": "^2.0.33",
+    "@nextui-org/modal": "^2.0.41",
+    "@nextui-org/navbar": "^2.0.37",
+    "@nextui-org/pagination": "^2.0.36",
+    "@nextui-org/skeleton": "^2.0.32",
+    "@nextui-org/spinner": "^2.0.34",
+    "@nextui-org/system": "^2.2.6",
+    "@nextui-org/theme": "^2.2.11",
+    "@react-pdf-viewer/core": "^3.12.0",
+    "@react-pdf-viewer/default-layout": "^3.12.0",
+    "@szhsin/react-accordion": "^1.2.5",
+    "bootstrap-icons": "^1.11.3",
+    "browser-image-compression": "^2.0.2",
+    "dotenv": "^16.4.5",
+    "framer-motion": "^11.11.17",
+    "heic2any": "^0.0.4",
+    "next": "^14.2.5",
+    "pdfjs-dist": "^3.11.174",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-form-stepper": "^2.0.3",
+    "react-images-uploading": "^3.1.7",
+    "react-loading-skeleton": "^3.4.0",
+    "react-otp-input": "^3.1.1",
+    "react-paginate": "^8.2.0",
+    "react-select": "^5.8.0",
+    "react-spinners": "^0.14.1",
+    "react-toastify": "^10.0.5",
+    "sharp": "^0.33.5",
+    "sweetalert2": "^11.14.5"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
 }
